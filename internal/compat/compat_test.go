@@ -5,8 +5,8 @@
 package compat
 
 import (
-	"github.com/usedcontract/usedcontract/internal/inference"
-	"github.com/usedcontract/usedcontract/internal/ir"
+	"github.com/nomadATdev/usedcontract/internal/inference"
+	"github.com/nomadATdev/usedcontract/internal/ir"
 	"testing"
 )
 

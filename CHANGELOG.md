@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.3.2] - 2026-09-25
+
+### Fixed
+
+- canonical GitHub Go module/import path for `nomadATdev/usedcontract`;
+- Node package and repository version consistency;
+- CI now uses the shared repository verification script;
+- canonical GitHub security URL in issue-template configuration;
+- stale architecture/version wording;
+- current MariaDB plc 2024 BSL attribution.
+
 ## [0.3.1] - 2026-09-25
 
 ### First-publication readiness
@@ -10,7 +21,7 @@
 - strengthened security/privacy guidance;
 - documented contributor-rights policy;
 - removed generated Python caches and packaged build artifacts from source;
-- aligned README version/status with v0.3.1;
+- aligned README version/status with v0.3.2;
 - retained the v0.4 JVM automatic-instrumentation engineering gate.
 
 ### Existing research capabilities

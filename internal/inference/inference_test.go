@@ -5,7 +5,7 @@
 package inference
 
 import (
-	"github.com/usedcontract/usedcontract/internal/ir"
+	"github.com/nomadATdev/usedcontract/internal/ir"
 	"testing"
 )
 

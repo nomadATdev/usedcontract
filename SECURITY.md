@@ -2,7 +2,7 @@
 
 ## Project maturity
 
-UsedContract v0.3.1 is a research MVP. It is not yet intended to receive raw,
+UsedContract v0.3.2 is a research MVP. It is not yet intended to receive raw,
 unfiltered production API payloads.
 
 ## Reporting a vulnerability

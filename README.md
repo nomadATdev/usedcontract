@@ -10,7 +10,7 @@ actually demonstrated it depends on?**
 
 ![License: BUSL-1.1](https://img.shields.io/badge/license-BUSL--1.1-blue)
 ![Status: Research MVP](https://img.shields.io/badge/status-research%20MVP-orange)
-![Version: v0.3.1](https://img.shields.io/badge/version-v0.3.1-informational)
+![Version: v0.3.2](https://img.shields.io/badge/version-v0.3.2-informational)
 
 ## Why this exists
 
@@ -45,7 +45,7 @@ breaking merely because the schema changed.
 
 ## Current status
 
-**v0.3.1 is a research MVP, not a production taint-analysis system.**
+**v0.3.2 is a research MVP, not a production taint-analysis system.**
 
 Implemented:
 
@@ -96,6 +96,16 @@ $.status CONTROL true
 These can aggregate into a requirement that a specific consumer reads
 `$.status`, compares it with an observed constant, and uses that result in
 control flow.
+
+## Canonical repository
+
+`https://github.com/nomadATdev/usedcontract`
+
+For Go users, the canonical module path is:
+
+```text
+github.com/nomadATdev/usedcontract
+```
 
 ## Quick start
 

@@ -6,8 +6,8 @@ package collector
 
 import (
 	"encoding/json"
-	"github.com/usedcontract/usedcontract/internal/inference"
-	"github.com/usedcontract/usedcontract/internal/ir"
+	"github.com/nomadATdev/usedcontract/internal/inference"
+	"github.com/nomadATdev/usedcontract/internal/ir"
 	"net/http"
 )
 

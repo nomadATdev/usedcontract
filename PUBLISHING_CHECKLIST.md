@@ -12,7 +12,7 @@
       `golang`, `developer-tools`, `ci-cd`.
 - [ ] Set About description:
       `Runtime-derived API compatibility contracts that detect semantic breaking changes from real consumer behavior.`
-- [ ] Create GitHub Release `v0.3.1` using `RELEASE_NOTES_v0.3.1.md`.
+- [ ] Create GitHub Release `v0.3.2` using `RELEASE_NOTES_v0.3.2.md`.
 - [ ] Upload the release ZIP and SHA-256 as Release assets, not source files.
 - [ ] Add a 1280x640 social preview after the repository exists.
 - [ ] Call the project `source-available`, not `open source`, while BUSL-1.1 applies.

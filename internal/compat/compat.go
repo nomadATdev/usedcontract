@@ -7,7 +7,7 @@ package compat
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/usedcontract/usedcontract/internal/inference"
+	"github.com/nomadATdev/usedcontract/internal/inference"
 	"strings"
 )
 

@@ -3,7 +3,7 @@
 This is a plain-English guide. It is **not** a substitute for the
 [`LICENSE`](LICENSE), which controls if there is any conflict.
 
-UsedContract v0.3.1 is licensed under the Business Source License 1.1
+UsedContract v0.3.2 is licensed under the Business Source License 1.1
 (BUSL-1.1) with an Additional Use Grant.
 
 ## Free without a commercial license
@@ -34,7 +34,7 @@ repository.
 
 ## Future license change
 
-For v0.3.1, the Change Date is **2030-09-25** and the Change License is
+For v0.3.2, the Change Date is **2030-09-25** and the Change License is
 **Apache License 2.0**, subject to BUSL-1.1.
 
 This repository does not provide legal advice. If licensing terms are material

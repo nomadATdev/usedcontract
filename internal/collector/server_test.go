@@ -5,7 +5,7 @@
 package collector
 
 import (
-	"github.com/usedcontract/usedcontract/internal/inference"
+	"github.com/nomadATdev/usedcontract/internal/inference"
 	"net/http/httptest"
 	"strings"
 	"testing"
