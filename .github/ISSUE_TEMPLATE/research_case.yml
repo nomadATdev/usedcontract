@@ -1,0 +1,24 @@
+name: Semantic breakage case
+description: Share an API change that schema checks miss or over-report
+title: "[Case] "
+labels: ["research"]
+body:
+  - type: textarea
+    id: provider
+    attributes:
+      label: Provider response before/after
+      description: Remove secrets and personal data.
+    validations:
+      required: true
+  - type: textarea
+    id: consumer
+    attributes:
+      label: Consumer dependency
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected UsedContract classification
+    validations:
+      required: true

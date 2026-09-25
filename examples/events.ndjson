@@ -1,0 +1,3 @@
+{"schema":"usedcontract.event.v1","consumer":{"name":"checkout-web","version":"7.4.2","language":"jvm"},"endpoint":{"method":"GET","route":"/v1/account"},"path":"$.status","kind":"read"}
+{"schema":"usedcontract.event.v1","consumer":{"name":"checkout-web","version":"7.4.2","language":"jvm"},"endpoint":{"method":"GET","route":"/v1/account"},"path":"$.status","kind":"compare","operator":"eq","operand":"ACTIVE","result":true}
+{"schema":"usedcontract.event.v1","consumer":{"name":"checkout-web","version":"7.4.2","language":"jvm"},"endpoint":{"method":"GET","route":"/v1/account"},"path":"$.status","kind":"control","result":true}

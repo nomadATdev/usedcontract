@@ -1,0 +1,17 @@
+usedcontract
+out/
+bin/
+obj/
+__pycache__/
+*.pyc
+coverage.out
+
+# Build/test artifacts
+__pycache__/
+*.py[cod]
+agents/jvm/out/
+bin/
+dist/
+coverage.out
+*.prof
+.DS_Store

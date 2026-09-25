@@ -1,0 +1,12 @@
+[
+  {
+    "consumer":{"name":"checkout-web","version":"7.4.2","language":"jvm"},
+    "endpoint":{"method":"GET","route":"/v1/account"},
+    "path":"$.status",
+    "reads":3847,
+    "required":true,
+    "non_null":true,
+    "comparisons":{"eq":["ACTIVE","SUSPENDED"]},
+    "control_influence":true
+  }
+]
