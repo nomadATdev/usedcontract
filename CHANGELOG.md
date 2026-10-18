@@ -1,5 +1,12 @@
 # Changelog
 
+## CI source restoration — 2026-10-18
+
+- Restore the CLI, Go, JVM and .NET adapter source files omitted from Git.
+- Restrict the executable ignore pattern to the repository root.
+- Escape the C# `operator` identifier while preserving the canonical JSON field.
+- Check CLI success/breaking exit codes and .NET event serialization/HTTP failures in CI.
+
 ## [0.3.2] - 2026-09-25
 
 ### Fixed

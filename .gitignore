@@ -1,4 +1,6 @@
-usedcontract
+# Ignore only the executable at the repository root, never source directories.
+/usedcontract
+/usedcontract.exe
 out/
 bin/
 obj/
